@@ -1,6 +1,6 @@
 # Java 8 Beginner's Guide
 ## Introduction to Java 
-### Overview of Java 8, its history, and significant features.
+### Overview of Java 8 :
 #### Java is a popular programming language used for 
 - Mobile applications (specially Android apps)
 - Desktop applications
