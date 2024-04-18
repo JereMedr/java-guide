@@ -1,8 +1,28 @@
 # Java 8 Beginner's Guide
+## Introduction to Java 
+### Overview of Java 8, its history, and significant features.
+#### Java is a popular programming language used for 
+- Mobile applications (specially Android apps)
+- Desktop applications
+- Web applications
+- Web servers and application servers
+- Games
+- Database connection
+- And much, much more!
 
-## Introduction to Java 8
-    Overview of Java 8, its history, and significant features.
+#### Why Use Java ?
 
+- Java is easy to learn.
+    - Java was designed to be easy to use and is therefore easy to write,   compile, debug, and learn than other programming languages.
+
+- Java is object-oriented.
+    - This allows you to create modular programs and reusable code.
+
+- Java is platform-independent.
+    - Java is platform-independent, which means that you can write code once and run it on any platform that has the Java Virtual Machine (JVM) installed. With the growing use of digitalization and cloud computing, Java's popularity is increasing, making it one of the most demanded programming languages in the industry.
+
+
+#### Because of Java's robustness, ease of use, cross-platform capabilities and security features, it has become a language of choice for providing worldwide Internet solutions.
 ## Basic Syntax of Java
     Variables, data types, operators, and control structures.
 
