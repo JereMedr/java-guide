@@ -1,6 +1,6 @@
 package variables;
 
-public class DataTypes {
+public class DataTypesPrimitives {
     public static void main(String[] args) {
         // byte example
         System.out.println("Primitives: ");
