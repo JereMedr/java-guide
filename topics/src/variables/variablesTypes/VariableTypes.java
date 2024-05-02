@@ -1,4 +1,4 @@
-package variablesTypes;
+package variables.variablesTypes;
 
 public class VariableTypes {
     int instanceVariable; // Instance variable

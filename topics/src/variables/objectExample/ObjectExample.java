@@ -1,4 +1,4 @@
-package variables;
+package variables.objectExample;
 /* Descripción: En Java, Object es la superclase de todas las clases. Esto significa que 
 cada clase en Java es, directa o indirectamente, una subclase de Object. Como resultado, 
 cualquier objeto en Java se puede asignar a una variable de tipo Object. Uso en la vida 

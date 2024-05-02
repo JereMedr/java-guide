@@ -1,4 +1,4 @@
-package variables;
+package variables.dataTypesPrimitives;
 
 public class DataTypesPrimitives {
     public static void main(String[] args) {
