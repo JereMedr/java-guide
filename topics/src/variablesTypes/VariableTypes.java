@@ -18,20 +18,18 @@ public class VariableTypes {
     }
 
     public static void main(String[] args) {
-        VariableTypes obj1 = new VariableTypes(); // Instance variable example
-        obj1.instanceVariable = 5;
-        System.out.println("Instance variable value: " + obj1.instanceVariable);
+        VariableTypes variableTypes = new VariableTypes(); 
+        variableTypes.instanceVariable = 5;
+        System.out.println("Instance variable value: " + variableTypes.instanceVariable);
 
-        VariableTypes obj2 = new VariableTypes(); // Class variable example
         VariableTypes.classVariable = 10;
         System.out.println("Class variable value: " + VariableTypes.classVariable);
 
-        VariableTypes obj3 = new VariableTypes(); // Constant example
-        System.out.println("Value of PI: " + obj3.PI);
+        System.out.println("Value constant PI: " + variableTypes.PI);
 
-        int age = 30; // Method parameter example
+        int age = 30;
         increaseAgeOneYear(age);
 
-        localVaraibleExample(); // Local variable example
+        localVaraibleExample();
     }
 }
