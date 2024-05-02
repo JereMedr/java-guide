@@ -28,5 +28,5 @@
 ---
 # boolean example
 `boolean booleanVariable = true;`
- ### Description of booleanVariable: Represents a true or false value, used for logical conditions, decision-making, and control flow in programs.
+### Description of booleanVariable: Represents a true or false value, used for logical conditions, decision-making, and control flow in programs.
 
