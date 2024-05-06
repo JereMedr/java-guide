@@ -17,6 +17,11 @@ public class dataTypesWrapper {
         // Using Generics
         Container<Integer> intContainer = new Container<>(42);
         System.out.println("Value in container: " + intContainer.getValue());
+        System.out.println(intContainer.getClass());
+
+        Container<String> stringContainer = new Container<String>("Value");
+        System.out.println("Value in container: " + stringContainer.getValue());
+        System.out.println(stringContainer.getClass());
 
         // Nullable Values
         Integer nullableValue = null;
