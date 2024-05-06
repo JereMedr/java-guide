@@ -24,7 +24,7 @@
 #### Because of Java's robustness, ease of use, cross-platform capabilities and security features, it has become a language of choice for providing worldwide Internet solutions.
 
 ## Basic Syntax and Fundamentals
-- Variables, data types (including constants), operators,
+- Variables, data types (including constants), operators, Generics, Enums
 - Control structures (if-else, loops)
 - Methods (including method overloading)
 - Classes and objects
