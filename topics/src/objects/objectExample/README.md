@@ -1,7 +1,6 @@
-## En Java, Object es la superclase de todas las clases. 
-### Esto significa que cada clase en Java es, directa o indirectamente, una subclase de Object. Como resultado, cualquier objeto en Java se puede asignar a una variable de tipo Object. 
-## Caso de uso mas frencuente: 
-### La clase Object se utiliza para proporcionar funcionalidades comunes que son heredadas por todas las clases en Java. Algunos de los métodos más comunes de la clase Object incluyen 
+## In Java, `Object` is the superclass of all classes.
+### This means that every class in Java is, directly or indirectly, a subclass of `Object`. As a result, any object in Java can be assigned to a variable of type `Object`.
+## Most Common Use Case:
+### The `Object` class is used to provide common functionalities that are inherited by all classes in Java. Some of the most common methods of the `Object` class include 
 ```toString(), equals(Object obj), hashCode(), getClass(), etc.``` 
-### Estos métodos se pueden sobrescribir en las subclases para personalizar su comportamiento según sea necesario. */
-
+### These methods can be overridden in subclasses to customize their behavior as needed.

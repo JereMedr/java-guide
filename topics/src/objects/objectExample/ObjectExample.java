@@ -1,14 +1,15 @@
 package objects.objectExample;
+
 public class ObjectExample {
     public static void main(String[] args) {
-        Object obj1 = new String("Hello"); // Creando un objeto de tipo String y asignándolo a una variable de tipo Object
-        Object obj2 = new Integer(10); // Creando un objeto de tipo Integer y asignándolo a una variable de tipo Object
+        Object obj1 = new String("Hello"); // Creating a String object and assigning it to an Object variable
+        Object obj2 = new Integer(10); // Creating an Integer object and assigning it to an Object variable
 
-        System.out.println(obj1.toString()); // Imprimiendo el resultado del método toString() de obj1
-        System.out.println(obj2.getClass()); // Imprimiendo el tipo de clase de obj2
+        System.out.println(obj1.toString()); // Printing the result of the toString() method of obj1
+        System.out.println(obj2.getClass()); // Printing the class type of obj2
 
-        /* Aquí, el método parseInt() de la clase Integer se utiliza para convertir una cadena de texto que representa 
-        un número en un objeto Integer. Operaciones aritméticas con Integer: */
+        /* Here, the parseInt() method of the Integer class is used to convert a string representing 
+        a number into an Integer object. Arithmetic operations with Integer: */
         String str = "123";
         Integer num = Integer.parseInt(str);
 
