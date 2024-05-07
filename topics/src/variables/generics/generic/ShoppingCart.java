@@ -3,7 +3,7 @@ package variables.generics.generic;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ShoppingCart<T extends Item> {
+public class ShoppingCart<T extends Item> {//Using Bounded Type Parameters only Item types can be used
     private List<T> items;
 
     public ShoppingCart() {
