@@ -2,7 +2,7 @@
 Generics in Java allow you to create classes, interfaces, and methods that operate with specified types. They provide a way to make classes and methods more flexible and reusable by allowing them to work with any data type.
 
 ## why use generics ?
-Generics add type safety to your code. They allow you to catch type errors at compile time rather than at runtime. They also help in writing cleaner and more concise code by reducing the need for explicit type casting.
+Generics add type safety to your code. They allow you to catch `type errors at compile time rather than at runtime`. They also help in writing cleaner and more concise code by reducing the need for explicit type casting.
 
 ## Syntaxis
 Class :

@@ -1,4 +1,4 @@
-package variables.objectExample;
+package objects.objectExample;
 public class ObjectExample {
     public static void main(String[] args) {
         Object obj1 = new String("Hello"); // Creando un objeto de tipo String y asignándolo a una variable de tipo Object
