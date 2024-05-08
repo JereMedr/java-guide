@@ -28,7 +28,6 @@
 - Control structures (if-else, loops)
 - Methods (including method overloading)
 - Classes and objects
-- Enums
 - Access modifiers (public, private, protected, default)
 - Packages and imports
 - Arrays and array manipulation
