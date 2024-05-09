@@ -23,6 +23,10 @@
 hs_err_pid*
 replay_pid*
 
-# Ignorar archivos generados por IntelliJ IDEA
+# Ignore files IntelliJ IDEA
 .idea/
 *.iml
+*.ipr
+*.iws
+.idea_modules/
+out/
