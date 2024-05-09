@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 import java.util.*;
 
-public class dataTypesWrapper {
+public class dataTypesWrapperExample {
     public static void main(String[] args) {
         // Using Collections
         ArrayList<Integer> myNumbers = new ArrayList<>();

@@ -1,6 +1,6 @@
 package variables.variablesTypes;
 
-public class VariableTypes {
+public class VariableTypesExample {
     int instanceVariable; // Instance variable
 
     static int classVariable; // Class variable
@@ -18,12 +18,12 @@ public class VariableTypes {
     }
 
     public static void main(String[] args) {
-        VariableTypes variableTypes = new VariableTypes(); 
+        VariableTypesExample variableTypes = new VariableTypesExample(); 
         variableTypes.instanceVariable = 5;
         System.out.println("Instance variable value: " + variableTypes.instanceVariable);
 
-        VariableTypes.classVariable = 10;
-        System.out.println("Class variable value: " + VariableTypes.classVariable);
+        VariableTypesExample.classVariable = 10;
+        System.out.println("Class variable value: " + VariableTypesExample.classVariable);
 
         System.out.println("Value constant PI: " + variableTypes.PI);
 

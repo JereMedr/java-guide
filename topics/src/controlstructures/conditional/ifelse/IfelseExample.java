@@ -1,6 +1,6 @@
-package controlstructures.conditional;
+package controlstructures.conditional.ifelse;
 
-public class Conditional {
+public class IfelseExample {
     public static void main(String[] args) {
         int x = 10;
         int y = 20;
