@@ -1,4 +1,4 @@
-package objects.objectExample;
+package objectsclasses.objectsuperclass;
 
 public class ObjectExample {
     public static void main(String[] args) {
