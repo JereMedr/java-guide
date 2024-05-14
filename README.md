@@ -24,15 +24,22 @@
 #### Because of Java's robustness, ease of use, cross-platform capabilities and security features, it has become a language of choice for providing worldwide Internet solutions.
 
 ## Basic Syntax and Fundamentals
-- Variables, data types (including constants), operators
+- Variables, data types (including constants), operators, Generics, Enums
 - Control structures (if-else, loops)
 - Methods (including method overloading)
 - Classes and objects
-- Enums
 - Access modifiers (public, private, protected, default)
 - Packages and imports
-- Arrays and array manipulation
 - Exception handling (try-catch, throw, throws, finally)
+
+## Data Structures and Algorithms
+- Arrays and array manipulation
+- Collections framework (lists, sets, maps)
+- Iterators
+- Generics
+- Sorting algorithms (e.g., Bubble Sort, Selection Sort)
+- Searching algorithms (e.g., Binary Search)
+- Recursion
 
 ## Object-Oriented Programming (OOP)
 - Inheritance
@@ -53,14 +60,6 @@
 - Test-driven development (TDD)
 - Integration testing
 - Mocking frameworks (e.g., Mockito)
-
-## Data Structures and Algorithms
-- Collections framework (lists, sets, maps)
-- Iterators
-- Generics
-- Sorting algorithms (e.g., Bubble Sort, Selection Sort)
-- Searching algorithms (e.g., Binary Search)
-- Recursion
 
 ## Input/Output (I/O) and File Handling
 - File input/output operations
