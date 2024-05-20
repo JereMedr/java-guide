@@ -34,9 +34,9 @@
 
 ## Data Structures and Algorithms
 - Arrays and array manipulation
-- Collections framework (lists, sets, maps)
+- Collections framework (lists, queue, sets)
 - Iterators
-- Generics
+- Maps
 - Sorting algorithms (e.g., Bubble Sort, Selection Sort)
 - Searching algorithms (e.g., Binary Search)
 - Recursion
