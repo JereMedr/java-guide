@@ -1,4 +1,4 @@
-package implementations.hashset;
+package dataStructures.CollectionFramework.collections.set.implementations.hashset;
 
 import java.util.Arrays;
 import java.util.HashSet;

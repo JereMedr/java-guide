@@ -1,4 +1,4 @@
-package implementations.treeset;
+package dataStructures.CollectionFramework.collections.set.implementations.treeset;
 import java.util.TreeSet;
 import java.util.SortedSet;
 import java.util.Comparator;

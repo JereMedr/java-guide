@@ -1,4 +1,4 @@
-package dataStructures.collections.lists.arrayList;
+package dataStructures.CollectionFramework.collections.lists.arrayList;
 
 import java.util.ArrayList;
 import java.util.Collections;

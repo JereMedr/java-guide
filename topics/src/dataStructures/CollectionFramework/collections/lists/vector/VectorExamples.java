@@ -1,4 +1,4 @@
-package dataStructures.collections.lists.vector;
+package dataStructures.CollectionFramework.collections.lists.vector;
 
 import java.util.Vector;
 
