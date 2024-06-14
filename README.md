@@ -39,7 +39,6 @@
 - Generics
 - Sorting algorithms (e.g., Bubble Sort, Selection Sort)
 - Searching algorithms (e.g., Binary Search)
-- Recursion
 
 ## Object-Oriented Programming (OOP)
 - Inheritance
