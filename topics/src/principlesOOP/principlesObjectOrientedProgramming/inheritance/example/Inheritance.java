@@ -1,19 +1,16 @@
+package example;
 // Superclass
 class Animal {
-    // Field
     String name;
 
-    // Constructor
     Animal(String name) {
         this.name = name;
     }
 
-    // Method
     void eat() {
         System.out.println(name + " is eating.");
     }
 
-    // Method
     void sleep() {
         System.out.println(name + " is sleeping.");
     }
@@ -27,7 +24,6 @@ class Dog extends Animal {
         super(name);
     }
 
-    // Method
     void bark() {
         System.out.println(name + " is barking.");
     }
