@@ -1,6 +1,15 @@
 # Liskov Substitution Principle (LSP)
 LSP states that objects of a superclass should be replaceable with objects of a subclass without affecting the correctness of the program. This principle ensures that a subclass can stand in for its superclass and behave in the same way without introducing errors.
 
+In other words, if class S is a subtype of class T, then objects of type T in a program may be replaced with objects of type S without altering any of the desirable properties of that program (correctness, task performed, etc.).
+
+To adhere to the Liskov Substitution Principle, a subclass should:
+
+- Honor the contracts of its base class.
+- Not strengthen preconditions.
+- Not weaken postconditions.
+- Maintain the invariants of the base class.
+
 ## Key Concepts of LSP
 
 ### Substitutability:

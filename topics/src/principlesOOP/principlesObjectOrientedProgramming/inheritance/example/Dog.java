@@ -1,4 +1,4 @@
-package example;
+package principlesOOP.principlesObjectOrientedProgramming.inheritance.example;
 
 // Subclass
 class Dog extends Animal {

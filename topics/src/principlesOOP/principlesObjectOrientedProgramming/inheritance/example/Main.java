@@ -1,4 +1,4 @@
-package example;
+package principlesOOP.principlesObjectOrientedProgramming.inheritance.example;
 public class Main {
     public static void main(String[] args) {
         // Create an object of the subclass

@@ -1,4 +1,4 @@
-package ocp;
+package SOLID.OpenClosed.example.ocp;
 
 public class Rectangle extends Shape {
     private double width;

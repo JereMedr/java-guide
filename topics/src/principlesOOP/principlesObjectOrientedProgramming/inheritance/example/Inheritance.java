@@ -1,4 +1,4 @@
-package example;
+package principlesOOP.principlesObjectOrientedProgramming.inheritance.example;
 // Superclass
 class Animal {
     String name;
@@ -17,9 +17,9 @@ class Animal {
 }
 
 // Subclass
-class Dog extends Animal {
+class DogExample extends Animal {
     // Constructor
-    Dog(String name) {
+    DogExample(String name) {
         // Call the constructor of the superclass
         super(name);
     }
