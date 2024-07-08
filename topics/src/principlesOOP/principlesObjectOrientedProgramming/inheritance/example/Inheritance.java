@@ -1,33 +1,29 @@
+package principlesOOP.principlesObjectOrientedProgramming.inheritance.example;
 // Superclass
 class Animal {
-    // Field
     String name;
 
-    // Constructor
     Animal(String name) {
         this.name = name;
     }
 
-    // Method
     void eat() {
         System.out.println(name + " is eating.");
     }
 
-    // Method
     void sleep() {
         System.out.println(name + " is sleeping.");
     }
 }
 
 // Subclass
-class Dog extends Animal {
+class DogExample extends Animal {
     // Constructor
-    Dog(String name) {
+    DogExample(String name) {
         // Call the constructor of the superclass
         super(name);
     }
 
-    // Method
     void bark() {
         System.out.println(name + " is barking.");
     }
