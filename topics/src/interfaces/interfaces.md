@@ -25,13 +25,16 @@ Method Declarations: Interfaces define methods that must be implemented by the c
 - Static Methods: Java 8 also allowed static methods in interfaces, which are called on the interface type.
 
 ## Utility of Interfaces
-- Abstraction: Interfaces provide a way to define methods without implementing them, promoting a design principle called abstraction.
+### Abstraction: 
+Interfaces provide a way to define methods without implementing them, promoting a design principle called abstraction.
 
-- Loose Coupling: By using interfaces, classes can be decoupled from the implementation of their dependencies, making code more modular and easier to maintain.
+### Loose Coupling: 
+By using interfaces, classes can be decoupled from the implementation of their dependencies, making code more modular and easier to maintain.
 
-- Polymorphism: Interfaces allow objects to be accessed through their interface type rather than their concrete class, enabling polymorphic behavior.
+### Polymorphism: 
+Interfaces allow objects to be accessed through their interface type rather than their concrete class, enabling polymorphic behavior.
 
-## When to Use Interfaces
+# When to Use Interfaces
 - When you want to define a contract for classes to implement.
 - When you need to support multiple inheritance.
 - When you want to decouple the implementation from the interface.
@@ -40,4 +43,4 @@ Method Declarations: Interfaces define methods that must be implemented by the c
 ## When Not to Use Interfaces
 - When a class will not have multiple implementations.
 - When a base class provides default behavior and state management that subclasses can inherit.
-- When you need to define a class with a significant amount of common behavio- r.1
+- When you need to define a class with a significant amount of common behavior.
