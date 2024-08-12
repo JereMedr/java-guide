@@ -50,26 +50,10 @@
 ## New Features and Enhancements
 - Java 8 features (lambda expressions, method references)
 - Streams API
-- Functional interfaces
 - Optional class
-- Default methods in interfaces
 
-## Testing
-- Unit testing with JUnit or TestNG
-- Test-driven development (TDD)
-- Integration testing
-- Mocking frameworks (e.g., Mockito)
+## Design patterns
 
-## Input/Output (I/O) and File Handling
-- File input/output operations
-- Serialization and deserialization
-- Readers and Writers
-- Buffered Streams
-
-## Date and Time Handling
-- Date and Time API (java.time package)
-- Formatting and parsing dates
-- Time zones
 
 ## Database Interaction
 - JDBC (Java Database Connectivity)
