@@ -62,14 +62,6 @@ When creating a base class that shouldn't be instantiated but can hold shared co
 ### Partial Implementation: 
 When you have a common base functionality but need derived classes to implement certain methods.
 
-## When to Use Abstract Classes
-### Shared Code: 
-When you want to provide some common functionality and force subclasses to provide specific details.
-### Base Class: 
-When creating a base class that shouldn't be instantiated but can hold shared code for derived classes.
-### Partial Implementation: 
-When you have a common base functionality but need derived classes to implement certain methods.
-
 ## When Not to Use Abstract Classes
 ### Full Abstraction: 
 Use interfaces instead if you need to define a contract without any implementation.
