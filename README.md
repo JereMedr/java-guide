@@ -1,6 +1,6 @@
 # Java 8 Beginner's Guide
-## Introduction to Java 
-#### Java is a popular programming language used for 
+## Introduction to Java
+#### Java is a popular programming language used for
 - Mobile applications (specially Android apps)
 - Desktop applications
 - Web applications
@@ -12,13 +12,13 @@
 #### Why Use Java ?
 
 - Java is easy to learn.
-    - Java was designed to be easy to use and is therefore easy to write,   compile, debug, and learn than other programming languages.
+  - Java was designed to be easy to use and is therefore easy to write,   compile, debug, and learn than other programming languages.
 
 - Java is object-oriented.
-    - This allows you to create modular programs and reusable code.
+  - This allows you to create modular programs and reusable code.
 
 - Java is platform-independent.
-    - Java is platform-independent, which means that you can write code once and run it on any platform that has the Java Virtual Machine (JVM) installed. With the growing use of digitalization and cloud computing, Java's popularity is increasing, making it one of the most demanded programming languages in the industry.
+  - Java is platform-independent, which means that you can write code once and run it on any platform that has the Java Virtual Machine (JVM) installed. With the growing use of digitalization and cloud computing, Java's popularity is increasing, making it one of the most demanded programming languages in the industry.
 
 
 #### Because of Java's robustness, ease of use, cross-platform capabilities and security features, it has become a language of choice for providing worldwide Internet solutions.
@@ -34,12 +34,11 @@
 
 ## Data Structures and Algorithms
 - Arrays and array manipulation
-- Collections framework (lists, queue, sets)
+- Collections framework (lists, sets, maps)
 - Iterators
-- Maps
+- Generics
 - Sorting algorithms (e.g., Bubble Sort, Selection Sort)
 - Searching algorithms (e.g., Binary Search)
-- Recursion
 
 ## Object-Oriented Programming (OOP)
 - Inheritance
@@ -51,26 +50,10 @@
 ## New Features and Enhancements
 - Java 8 features (lambda expressions, method references)
 - Streams API
-- Functional interfaces
 - Optional class
-- Default methods in interfaces
 
-## Testing
-- Unit testing with JUnit or TestNG
-- Test-driven development (TDD)
-- Integration testing
-- Mocking frameworks (e.g., Mockito)
+## Design patterns
 
-## Input/Output (I/O) and File Handling
-- File input/output operations
-- Serialization and deserialization
-- Readers and Writers
-- Buffered Streams
-
-## Date and Time Handling
-- Date and Time API (java.time package)
-- Formatting and parsing dates
-- Time zones
 
 ## Database Interaction
 - JDBC (Java Database Connectivity)
