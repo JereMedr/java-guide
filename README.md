@@ -52,9 +52,6 @@
 - Streams API
 - Optional class
 
-## Design patterns
-
-
 ## Database Interaction
 - JDBC (Java Database Connectivity)
 - Connecting to databases
@@ -69,4 +66,30 @@
 - Networking (sockets, HTTP)
 - Reflection
 - Annotations
-- Design patterns
+
+## Design patterns
+- Creational
+  - Singleton
+  - Builder
+  - Factory Method
+  - Abstract Factory
+  - Prototype
+- Structural
+  - Proxy
+  - Facade
+  - Bridge
+  - Adapter
+  - Composite
+- Behavioral
+  - Command
+  - Interpreter
+  - Iterator
+  - Mediator
+  - Strategy
+  - Observer
+- Concurrency
+  - Thread Pool
+  - Producer-Consumer
+  - Read-Write Lock
+    - Future
+  
