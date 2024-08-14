@@ -48,12 +48,16 @@
 - Interfaces and abstract classes
 
 ## New Features and Enhancements
-- Java 8 features (lambda expressions, method references)
+- Lambda Expressions
 - Streams API
-- Optional class
+- Default Methods in Interfaces
+- Optional Class
+- New Date and Time API (java.time package)
+- Method References
+- Nashorn JavaScript Engine
+- Collectors and Streams Improvements
 
 ## Design patterns
-
 
 ## Database Interaction
 - JDBC (Java Database Connectivity)
