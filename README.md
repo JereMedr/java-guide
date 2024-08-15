@@ -1,6 +1,6 @@
-# Java 8 Beginner's Guide
-## Introduction to Java 
-#### Java is a popular programming language used for 
+# Java 8 Guide
+## Introduction to Java
+#### Java is a popular programming language used for
 - Mobile applications (specially Android apps)
 - Desktop applications
 - Web applications
@@ -12,13 +12,13 @@
 #### Why Use Java ?
 
 - Java is easy to learn.
-    - Java was designed to be easy to use and is therefore easy to write,   compile, debug, and learn than other programming languages.
+  - Java was designed to be easy to use and is therefore easy to write,   compile, debug, and learn than other programming languages.
 
 - Java is object-oriented.
-    - This allows you to create modular programs and reusable code.
+  - This allows you to create modular programs and reusable code.
 
 - Java is platform-independent.
-    - Java is platform-independent, which means that you can write code once and run it on any platform that has the Java Virtual Machine (JVM) installed. With the growing use of digitalization and cloud computing, Java's popularity is increasing, making it one of the most demanded programming languages in the industry.
+  - Java is platform-independent, which means that you can write code once and run it on any platform that has the Java Virtual Machine (JVM) installed. With the growing use of digitalization and cloud computing, Java's popularity is increasing, making it one of the most demanded programming languages in the industry.
 
 
 #### Because of Java's robustness, ease of use, cross-platform capabilities and security features, it has become a language of choice for providing worldwide Internet solutions.
@@ -47,30 +47,38 @@
 - Abstraction
 - Interfaces and abstract classes
 
-## New Features and Enhancements
-- Lambda Expressions
-- Streams API
-- Default Methods in Interfaces
-- Optional Class
-- New Date and Time API (java.time package)
-- Method References
-- Nashorn JavaScript Engine
-- Collectors and Streams Improvements
+## New Features  Java 8
+- lambdas
+- method references
+- default methods
+- nashron
+- optional
+- stream API
+- collector
 
 ## Design patterns
-
-## Database Interaction
-- JDBC (Java Database Connectivity)
-- Connecting to databases
-- Executing SQL queries
-- Handling result sets
-- Prepared statements
-
-## Advanced Topics
-- Multithreading
-- Synchronization
-- Concurrent data structures (e.g., ConcurrentHashMap)
-- Networking (sockets, HTTP)
-- Reflection
-- Annotations
-- Design patterns
+- Creational
+  - Singleton
+  - Builder
+  - Factory Method
+  - Abstract Factory
+  - Prototype
+- Structural
+  - Proxy
+  - Facade
+  - Bridge
+  - Adapter
+  - Composite
+- Behavioral
+  - Command
+  - Interpreter
+  - Iterator
+  - Mediator
+  - Strategy
+  - Observer
+- Concurrency
+  - Thread Pool
+  - Producer-Consumer
+  - Read-Write Lock
+  - Future
+  
