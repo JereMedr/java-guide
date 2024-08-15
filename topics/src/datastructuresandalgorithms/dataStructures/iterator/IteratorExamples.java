@@ -1,4 +1,4 @@
-package dataStructures.iterator;
+package datastructuresandalgorithms.dataStructures.iterator;
 
 import java.util.ArrayList;
 import java.util.HashSet;
