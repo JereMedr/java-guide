@@ -1,4 +1,4 @@
-# Java 8 Beginner's Guide
+# Java 8 Guide
 ## Introduction to Java 
 #### Java is a popular programming language used for 
 - Mobile applications (specially Android apps)
@@ -47,25 +47,14 @@
 - Abstraction
 - Interfaces and abstract classes
 
-## New Features and Enhancements
-- Java 8 features (lambda expressions, method references)
-- Streams API
-- Optional class
-
-## Database Interaction
-- JDBC (Java Database Connectivity)
-- Connecting to databases
-- Executing SQL queries
-- Handling result sets
-- Prepared statements
-
-## Advanced Topics
-- Multithreading
-- Synchronization
-- Concurrent data structures (e.g., ConcurrentHashMap)
-- Networking (sockets, HTTP)
-- Reflection
-- Annotations
+## New Features  Java 8
+- lambdas
+- method references
+- default methods
+- nashron
+- optional
+- stream API 
+- collector
 
 ## Design patterns
 - Creational
