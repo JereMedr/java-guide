@@ -1,4 +1,4 @@
-package variables.enums.enumsExamples;
+package basics.variables.enums.enumsExamples;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -28,7 +28,7 @@ public class Main {
     }
 
     private static void printWorkingDaysList(List<DayOfWeek>workingDays){
-        System.out.println(" Working days: ");
+        System.out.println("Working days: ");
         for (DayOfWeek day : workingDays) {
             System.out.println(day.getName());
         }

@@ -1,4 +1,4 @@
-package variables.generics.generic;
+package basics.variables.generics.generic;
 
 public class Product extends Item {
     public Product(String name, double price) {

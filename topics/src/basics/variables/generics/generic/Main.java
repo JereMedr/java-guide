@@ -1,4 +1,4 @@
-package variables.generics.generic;
+package basics.variables.generics.generic;
 
 public class Main {
     public static void main(String[] args) {

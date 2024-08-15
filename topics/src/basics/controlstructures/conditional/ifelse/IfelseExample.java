@@ -1,4 +1,4 @@
-package controlstructures.conditional.ifelse;
+package basics.controlstructures.conditional.ifelse;
 
 public class IfelseExample {
     public static void main(String[] args) {

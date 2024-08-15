@@ -1,7 +1,7 @@
-package variables.enums.enumsExamples;
+package basics.variables.enums.enumsExamples;
 
 public enum DayOfWeek {
-     MONDAY(1, "Monday", true),
+    MONDAY(1, "Monday", true),
     TUESDAY(2, "Tuesday", true),
     WEDNESDAY(3, "Wednesday", true),
     THURSDAY(4, "Thursday", true),

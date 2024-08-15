@@ -1,4 +1,4 @@
-package exceptionhandling.throwable.exceptions.customexceptions;
+package basics.exceptionhandling.throwable.exceptions.customexceptions;
 
 public class CustomExceptionExample {
     public static double calculateSquareRoot(double number) throws NegativeNumberException {

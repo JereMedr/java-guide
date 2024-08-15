@@ -27,8 +27,10 @@ public class MyClass {
     System.out.println("Hello World");
   }
 }
-```	
+```
+
 - `default` : The class is only accessible by classes in the same package. This is used when you don't specify a modifier.
+
 ```
 class MyClass {
   public static void main(String[] args) {

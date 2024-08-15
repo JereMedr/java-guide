@@ -1,4 +1,4 @@
-package variables.generics.generic;
+package basics.variables.generics.generic;
 
 import java.util.ArrayList;
 import java.util.List;

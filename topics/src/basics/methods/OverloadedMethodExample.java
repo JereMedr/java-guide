@@ -1,4 +1,4 @@
-package methods;
+package basics.methods;
 
 public class OverloadedMethodExample {
     // Method to add two integers

@@ -1,4 +1,4 @@
-package objectsclasses.classes.classes;
+package basics.objectsclasses.classes.classes;
 
 public class Car {
     String color;

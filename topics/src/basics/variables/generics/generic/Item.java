@@ -1,4 +1,4 @@
-package variables.generics.generic;
+package basics.variables.generics.generic;
 
 public class Item {
     private String name;
